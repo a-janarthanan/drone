@@ -1,0 +1,64 @@
+.ui-carousel-cat {
+
+	height: 100px;
+	margin: 0;
+	overflow: auto;
+	padding: 0;
+	position: relative; /*for ie7 to work e.g in html carousels*/
+	width: 300px
+}
+
+.ui-carousel-cat > .wrapper {
+    margin: 0;
+    padding: 0;
+    width: 9999px;
+	
+}
+
+.ui-carousel-cat > .wrapper > * {
+	border: 0;
+	display: block;
+	float: left;
+	height: 100px;
+	overflow: hidden;
+	width: 100px;	
+	
+}
+/************/
+			#container-cat {
+				 margin-top: 20px;
+				 position: relative;
+                 width: 990px; 
+			}
+			
+			#carousel-cat {
+				margin: 0 auto;
+			}
+
+			#carousel-cat img {
+				border: 0;
+			}
+
+			#ui-carousel-next-cat, #ui-carousel-prev-cat {
+				width: 20px;
+				height: 50px; 
+				background: url(../../images/left-arrow.png) center center no-repeat;
+				display: block;
+				position: absolute;
+				top: 0; 
+				z-index: 100;
+				padding-right:15px
+			}
+
+			#ui-carousel-next-cat {
+				right: 0;
+				background: url(../../images/red-bullet-arrow.png)  center center no-repeat;
+			}
+
+			#ui-carousel-prev-cat {
+				left: 0;
+			}
+			
+			#ui-carousel-next-cat > span, #ui-carousel-prev-cat > span {
+				display: none;
+			}	

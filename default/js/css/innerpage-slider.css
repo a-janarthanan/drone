@@ -1,0 +1,62 @@
+.ui-carousel-inner {
+
+	height: 100px;
+	margin: 0;
+	overflow: auto;
+	padding: 0;
+	position: relative; /*for ie7 to work e.g in html carousels*/
+	width: 300px
+}
+
+.ui-carousel-inner > .wrapper {
+    margin: 0;
+    padding: 0;
+    width: 9999px;
+	
+}
+
+.ui-carousel-inner > .wrapper > * {
+	border: 0;
+	display: block;
+	float: left;
+	height: 100px;
+	overflow: hidden;
+	width: 100px;	
+	
+}
+/************/
+			#container-inner {
+				width:600px;
+				position: relative;  
+			}
+			
+			#carousel-inner {
+				margin: 0 auto;
+			}
+
+			#carousel-inner img {
+				border: 0;
+			}
+
+			#ui-carousel-next-inner, #ui-carousel-prev-inner {
+				width: 32px;
+				height: 100px;
+				background: url(../../images/arrow-left.png) #fff center center no-repeat;
+				display: block;
+				position: absolute;
+				top: 0; 
+				z-index: 100;
+			}
+
+			#ui-carousel-next-inner {
+				right: 0;
+				background: url(../../images/arrow-right.png) #fff center center no-repeat;
+			}
+
+			#ui-carousel-prev-inner {
+				left: 0;
+			}
+			
+			#ui-carousel-next-inner > span, #ui-carousel-prev-inner > span {
+				display: none;
+			}	

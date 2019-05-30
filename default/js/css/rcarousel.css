@@ -1,0 +1,84 @@
+/** index page s **/
+			#container {
+				width: 285px;
+				height: 350px;
+				position: relative;/*border:1px solid green;*/
+				margin-left:0px;
+			}
+			
+			
+			#carousel {
+				position: absolute;
+				top: 0px; /*border:1px solid red;*/
+			}
+
+			#carousel img {
+				
+			}
+
+			#ui-carousel-next{
+				width: 25px; 
+				height: 25px;
+				background: url(../../images/arrow-bottom.png) #fff center center no-repeat;
+				display: block;
+				position: absolute;
+				left: 0
+				z-index: 100;
+				top:320px;
+				left:130px;
+			}
+			#ui-carousel-prev{
+				width: 25px; 
+				height: 25px;
+				background: url(../../images/arrow-top.png) #fff center center no-repeat;
+				display: block;
+				position: absolute;
+				left: 0
+				z-index: 100;
+				top:320px;
+				left:100px;
+			}
+
+			
+			#ui-carousel-next > span, #ui-carousel-prev > span {
+				display: none;
+			}	
+/** index page e **/
+
+.ui-carousel {
+	/*height: 100px;*/
+	margin: 0;
+	overflow: auto;
+	padding: 0;
+	position: relative; /*for ie7 to work e.g in html carousels*/
+	/*width: 284px;*/
+}
+
+.ui-carousel > .wrapper {
+    margin: 0;
+    padding: 0;
+   /* width: 280px;*//*border:1px solid blue;*/
+
+}
+
+.ui-carousel > .wrapper > * {
+	border: 0;
+	display: block;
+	float: left;
+	height: 100px;
+	overflow: hidden;
+	width: 50px;	
+	
+}
+.ui-carousel > .wrapper > .slide{
+	margin:5px 5px;
+	position: relative;
+	-moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+   border-radius: 10px;
+    background: #fff;
+    border: 1px solid #709ab3;
+	width:270px;
+}
+
+

@@ -1,0 +1,27 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2016-03-10 10:37:32 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /home/demoplac/public_html/newsite/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2016-03-10 10:38:38 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /home/demoplac/public_html/newsite/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2016-03-10 10:38:40 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /home/demoplac/public_html/newsite/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2016-03-10 10:38:40 --> Severity: Notice  --> Trying to get property of non-object /home/demoplac/public_html/newsite/application/admin/helpers/custom_helper.php 1255
+ERROR - 2016-03-10 10:38:40 --> Severity: Notice  --> Trying to get property of non-object /home/demoplac/public_html/newsite/application/admin/helpers/custom_helper.php 1255
+ERROR - 2016-03-10 10:38:40 --> Severity: Notice  --> Trying to get property of non-object /home/demoplac/public_html/newsite/application/admin/helpers/custom_helper.php 1255
+ERROR - 2016-03-10 10:38:40 --> Severity: Notice  --> Trying to get property of non-object /home/demoplac/public_html/newsite/application/admin/helpers/custom_helper.php 1255
+ERROR - 2016-03-10 10:38:40 --> Severity: Notice  --> Trying to get property of non-object /home/demoplac/public_html/newsite/application/admin/helpers/custom_helper.php 1255
+ERROR - 2016-03-10 10:38:40 --> Severity: Notice  --> Trying to get property of non-object /home/demoplac/public_html/newsite/application/admin/helpers/custom_helper.php 1255
+ERROR - 2016-03-10 10:39:05 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /home/demoplac/public_html/newsite/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2016-03-10 10:39:45 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /home/demoplac/public_html/newsite/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2016-03-10 10:39:46 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /home/demoplac/public_html/newsite/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2016-03-10 11:54:06 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /home/demoplac/public_html/newsite/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2016-03-10 11:54:09 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /home/demoplac/public_html/newsite/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2016-03-10 11:54:11 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /home/demoplac/public_html/newsite/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2016-03-10 11:54:12 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /home/demoplac/public_html/newsite/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2016-03-10 11:54:12 --> Severity: Notice  --> Trying to get property of non-object /home/demoplac/public_html/newsite/application/admin/helpers/custom_helper.php 1255
+ERROR - 2016-03-10 11:54:12 --> Severity: Notice  --> Trying to get property of non-object /home/demoplac/public_html/newsite/application/admin/helpers/custom_helper.php 1255
+ERROR - 2016-03-10 11:54:12 --> Severity: Notice  --> Trying to get property of non-object /home/demoplac/public_html/newsite/application/admin/helpers/custom_helper.php 1255
+ERROR - 2016-03-10 11:54:12 --> Severity: Notice  --> Trying to get property of non-object /home/demoplac/public_html/newsite/application/admin/helpers/custom_helper.php 1255
+ERROR - 2016-03-10 11:54:12 --> Severity: Notice  --> Trying to get property of non-object /home/demoplac/public_html/newsite/application/admin/helpers/custom_helper.php 1255
+ERROR - 2016-03-10 11:54:12 --> Severity: Notice  --> Trying to get property of non-object /home/demoplac/public_html/newsite/application/admin/helpers/custom_helper.php 1255
+ERROR - 2016-03-10 11:54:22 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /home/demoplac/public_html/newsite/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2016-03-10 11:54:25 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /home/demoplac/public_html/newsite/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2016-03-10 11:54:37 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /home/demoplac/public_html/newsite/system/database/drivers/mysql/mysql_driver.php 91

@@ -1,0 +1,22 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2017-11-25 23:52:57 --> 404 Page Not Found --> _whatsnew.html
+ERROR - 2017-11-25 23:52:58 --> 404 Page Not Found --> editor
+ERROR - 2017-11-25 23:52:59 --> 404 Page Not Found --> FCKeditor
+ERROR - 2017-11-25 23:53:00 --> 404 Page Not Found --> FCKeditor
+ERROR - 2017-11-25 23:53:01 --> 404 Page Not Found --> fckeditor
+ERROR - 2017-11-25 23:53:02 --> 404 Page Not Found --> fckeditor
+ERROR - 2017-11-25 23:53:02 --> 404 Page Not Found --> fck
+ERROR - 2017-11-25 23:53:03 --> 404 Page Not Found --> fck
+ERROR - 2017-11-25 23:53:04 --> 404 Page Not Found --> Fck
+ERROR - 2017-11-25 23:53:05 --> 404 Page Not Found --> Fck
+ERROR - 2017-11-25 23:53:06 --> 404 Page Not Found --> FCK
+ERROR - 2017-11-25 23:53:06 --> 404 Page Not Found --> FCK
+ERROR - 2017-11-25 23:53:07 --> 404 Page Not Found --> FCKEditorV2
+ERROR - 2017-11-25 23:53:08 --> 404 Page Not Found --> FCKEditorV2
+ERROR - 2017-11-25 23:53:09 --> 404 Page Not Found --> ckeditor
+ERROR - 2017-11-25 23:53:10 --> 404 Page Not Found --> ckeditor
+ERROR - 2017-11-25 23:53:11 --> 404 Page Not Found --> fck2
+ERROR - 2017-11-25 23:53:12 --> 404 Page Not Found --> fck2
+ERROR - 2017-11-25 23:53:13 --> 404 Page Not Found --> fckedit
+ERROR - 2017-11-25 23:53:13 --> 404 Page Not Found --> fckedit

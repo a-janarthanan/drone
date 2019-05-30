@@ -1,0 +1,1 @@
+a:3:{s:4:"time";i:1559200244;s:3:"ttl";i:864000;s:4:"data";O:8:"stdClass":6:{s:15:"user_setting_id";s:1:"1";s:19:"sign_up_auto_active";s:1:"1";s:21:"user_task_auto_active";s:1:"1";s:25:"no_task_after_auto_active";s:1:"3";s:22:"delete_admin_login_day";s:1:"6";s:21:"delete_user_login_day";s:1:"2";}}

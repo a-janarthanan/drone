@@ -1,0 +1,48 @@
+
+
+.styie{margin-left:65px;}
+
+
+/****27 ***/
+
+
+/*a 03*/
+
+
+.ulsty li, .ulsty2 li{padding:10px 0px !important; border-bottom:1px solid #c3d2da; clear:both;}
+.ulsty li:hover{background-color:#ededed; }
+
+.stcinn li { padding:2px 0px !important; margin:3px 0px !important;}
+
+
+./*a 04*/
+
+a.col1{color:#709ab3 !important; font-weight:bold; }
+a.col2{color:#878787 !important; font-weight:bold;}
+
+
+.posted{ font-size:14px; color:#1c6284; margin-top:10px !important;}
+
+
+
+textarea{ font-size:13px;}
+
+/** a5 **/
+.ulround li{ list-style:disc; font-weight:bold; margin-left:19px; }
+
+
+.catle3{float:right; width:108px;}
+
+/** a16 **/
+.ie7sp1{ margin-top:20px; margin-left:10px;}
+.hsearch{    float: left;    margin-left: 20px;    margin-top: 20px;}
+.ie7sp2{ margin-top:10px;}
+.ie7sp3{ margin-top:4px;}
+.searchbg{width:168px; height:15px; padding:7px 5px; font-size:14px; color:#a7a7a7; background-color:#FFFFFF; border:1px solid #94acb8;}
+
+.ie7sp4{ width:700px;  }
+.iesp5{ color:#FFFFFF;}
+
+.ie7sp8{ z-index:-10 !important;}
+.ie7sp9{ margin-top:-10px; }
+.ie7sp10{ padding-top:-10px; }

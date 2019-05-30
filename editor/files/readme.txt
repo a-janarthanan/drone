@@ -1,0 +1,1 @@
+This is the directory where elFinder will store all it's uploaded files. 

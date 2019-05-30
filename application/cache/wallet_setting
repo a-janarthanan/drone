@@ -1,0 +1,1 @@
+a:3:{s:4:"time";i:1559203143;s:3:"ttl";i:864000;s:4:"data";O:8:"stdClass":6:{s:9:"wallet_id";s:1:"1";s:15:"wallet_add_fees";s:4:"5.00";s:13:"wallet_enable";s:1:"1";s:20:"wallet_donation_fees";s:4:"5.00";s:21:"wallet_minimum_amount";s:5:"20.00";s:29:"no_payment_after_auto_confirm";s:3:"100";}}

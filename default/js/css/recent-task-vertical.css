@@ -1,0 +1,98 @@
+.ui-carousel-vertical{
+
+	height: 100px;
+	margin: 0;
+	overflow: auto;
+	padding: 0;
+	position: relative; /*for ie7 to work e.g in html carousels*/
+	width: 300px
+}
+
+.ui-carousel-vertical > .wrapper {
+    margin: 0;
+    padding: 0;
+    width: 9999px;
+}
+
+.ui-carousel-vertical > .wrapper > * {
+	/*border: 0;*/
+	display: block;
+	float: left;
+	height: 100px;
+	overflow: hidden;
+	width: 100px;	
+	
+}
+/************/
+			#container-vertical{ 
+				width:290px; margin:0px;  
+				position: relative;  
+			}
+			
+			#carousel-vertical {
+				margin: 0 auto !important;
+			}
+
+			#carousel-vertical img {
+				border: 0;
+			}
+
+
+			#ui-carousel-next-vertical{
+				width: 25px; 
+				height: 25px; float:left;
+				background: url(../../images/arrow-bottom.png) #fff center center no-repeat;
+				display: block;
+				
+				margin-left:114px;
+			}
+			#ui-carousel-prev-vertical{
+				width: 25px; float:left;
+				height: 25px;
+				background: url(../../images/arrow-top.png) #fff center center no-repeat;
+				display: block;
+				
+				
+			}
+
+
+/*
+			#ui-carousel-next-vertical, #ui-carousel-prev-vertical {
+				width: 20px;
+				height: 50px; 
+				background: url(../../images/arrow-left-sml.png) #fff center center no-repeat;
+				display: block;
+				position: absolute;
+				top: 40px; 
+				z-index: 100;
+			}
+
+			#ui-carousel-next-vertical {
+				right: 0;
+				background: url(../../images/arrow-right-sml.png) #fff center center no-repeat;
+			}
+
+			#ui-carousel-prev-vertical {
+				left: 0;
+			}
+*/			
+			#ui-carousel-next-vertical > span, #ui-carousel-prev-vertical > span {
+				display: none;
+			}	
+
+.ui-carousel-vertical > .wrapper > .slideVer {
+	/*margin-bottom:5px !important;*/
+	position: relative;
+	-moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+   border-radius: 10px;
+   background-color:#fff;
+    border: 1px solid #709ab3;
+	width:260px; 
+
+}
+
+
+.t1left{ float:left; width:54px; margin-top:10px;  margin-left:5px;}
+.t1right{ float:left; width:200px; margin-top:17px;}
+.t1right h4{ font-size:14px; }

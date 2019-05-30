@@ -1,0 +1,10 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2016-12-15 11:29:19 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /home/saivisiontech/public_html/newsite/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2016-12-15 11:29:20 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /home/saivisiontech/public_html/newsite/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2016-12-15 11:30:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /home/saivisiontech/public_html/newsite/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2016-12-15 11:30:12 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /home/saivisiontech/public_html/newsite/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2016-12-15 13:04:22 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /home/saivisiontech/public_html/newsite/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2016-12-15 13:04:23 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /home/saivisiontech/public_html/newsite/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2016-12-15 13:04:32 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /home/saivisiontech/public_html/newsite/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2016-12-15 13:04:41 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /home/saivisiontech/public_html/newsite/system/database/drivers/mysql/mysql_driver.php 91

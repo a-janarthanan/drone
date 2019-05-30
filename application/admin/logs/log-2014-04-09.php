@@ -1,0 +1,61 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2014-04-09 00:16:01 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /home/sysnetco/public_html/taskrabbit/application/admin/controllers/report.php:107) /home/sysnetco/public_html/taskrabbit/system/libraries/Session.php 672
+ERROR - 2014-04-09 00:17:29 --> Severity: Notice  --> Undefined variable: site_setting /home/sysnetco/public_html/taskrabbit/application/admin/views/default/layout/report/list_search_report.php 232
+ERROR - 2014-04-09 00:17:29 --> Severity: Notice  --> Trying to get property of non-object /home/sysnetco/public_html/taskrabbit/application/admin/views/default/layout/report/list_search_report.php 232
+ERROR - 2014-04-09 00:17:29 --> Severity: Notice  --> Undefined variable: site_setting /home/sysnetco/public_html/taskrabbit/application/admin/views/default/layout/report/list_search_report.php 232
+ERROR - 2014-04-09 00:17:29 --> Severity: Notice  --> Trying to get property of non-object /home/sysnetco/public_html/taskrabbit/application/admin/views/default/layout/report/list_search_report.php 232
+ERROR - 2014-04-09 00:17:29 --> Severity: Notice  --> Undefined variable: site_setting /home/sysnetco/public_html/taskrabbit/application/admin/views/default/layout/report/list_search_report.php 232
+ERROR - 2014-04-09 00:17:29 --> Severity: Notice  --> Trying to get property of non-object /home/sysnetco/public_html/taskrabbit/application/admin/views/default/layout/report/list_search_report.php 232
+ERROR - 2014-04-09 00:17:29 --> Severity: Notice  --> Undefined variable: site_setting /home/sysnetco/public_html/taskrabbit/application/admin/views/default/layout/report/list_search_report.php 232
+ERROR - 2014-04-09 00:17:29 --> Severity: Notice  --> Trying to get property of non-object /home/sysnetco/public_html/taskrabbit/application/admin/views/default/layout/report/list_search_report.php 232
+ERROR - 2014-04-09 00:17:29 --> Severity: Notice  --> Undefined variable: site_setting /home/sysnetco/public_html/taskrabbit/application/admin/views/default/layout/report/list_search_report.php 232
+ERROR - 2014-04-09 00:17:29 --> Severity: Notice  --> Trying to get property of non-object /home/sysnetco/public_html/taskrabbit/application/admin/views/default/layout/report/list_search_report.php 232
+ERROR - 2014-04-09 00:17:29 --> Severity: Notice  --> Undefined variable: site_setting /home/sysnetco/public_html/taskrabbit/application/admin/views/default/layout/report/list_search_report.php 232
+ERROR - 2014-04-09 00:17:29 --> Severity: Notice  --> Trying to get property of non-object /home/sysnetco/public_html/taskrabbit/application/admin/views/default/layout/report/list_search_report.php 232
+ERROR - 2014-04-09 00:17:29 --> Severity: Notice  --> Undefined variable: site_setting /home/sysnetco/public_html/taskrabbit/application/admin/views/default/layout/report/list_search_report.php 232
+ERROR - 2014-04-09 00:17:29 --> Severity: Notice  --> Trying to get property of non-object /home/sysnetco/public_html/taskrabbit/application/admin/views/default/layout/report/list_search_report.php 232
+ERROR - 2014-04-09 00:17:29 --> Severity: Notice  --> Undefined variable: site_setting /home/sysnetco/public_html/taskrabbit/application/admin/views/default/layout/report/list_search_report.php 232
+ERROR - 2014-04-09 00:17:29 --> Severity: Notice  --> Trying to get property of non-object /home/sysnetco/public_html/taskrabbit/application/admin/views/default/layout/report/list_search_report.php 232
+ERROR - 2014-04-09 00:17:29 --> Severity: Notice  --> Undefined variable: site_setting /home/sysnetco/public_html/taskrabbit/application/admin/views/default/layout/report/list_search_report.php 232
+ERROR - 2014-04-09 00:17:29 --> Severity: Notice  --> Trying to get property of non-object /home/sysnetco/public_html/taskrabbit/application/admin/views/default/layout/report/list_search_report.php 232
+ERROR - 2014-04-09 00:17:29 --> Severity: Notice  --> Undefined variable: site_setting /home/sysnetco/public_html/taskrabbit/application/admin/views/default/layout/report/list_search_report.php 232
+ERROR - 2014-04-09 00:17:29 --> Severity: Notice  --> Trying to get property of non-object /home/sysnetco/public_html/taskrabbit/application/admin/views/default/layout/report/list_search_report.php 232
+ERROR - 2014-04-09 00:17:29 --> Severity: Notice  --> Undefined variable: site_setting /home/sysnetco/public_html/taskrabbit/application/admin/views/default/layout/report/list_search_report.php 232
+ERROR - 2014-04-09 00:17:29 --> Severity: Notice  --> Trying to get property of non-object /home/sysnetco/public_html/taskrabbit/application/admin/views/default/layout/report/list_search_report.php 232
+ERROR - 2014-04-09 00:17:29 --> Severity: Notice  --> Undefined variable: site_setting /home/sysnetco/public_html/taskrabbit/application/admin/views/default/layout/report/list_search_report.php 232
+ERROR - 2014-04-09 00:17:29 --> Severity: Notice  --> Trying to get property of non-object /home/sysnetco/public_html/taskrabbit/application/admin/views/default/layout/report/list_search_report.php 232
+ERROR - 2014-04-09 00:17:29 --> Severity: Notice  --> Undefined variable: site_setting /home/sysnetco/public_html/taskrabbit/application/admin/views/default/layout/report/list_search_report.php 232
+ERROR - 2014-04-09 00:17:29 --> Severity: Notice  --> Trying to get property of non-object /home/sysnetco/public_html/taskrabbit/application/admin/views/default/layout/report/list_search_report.php 232
+ERROR - 2014-04-09 00:17:29 --> Severity: Notice  --> Undefined variable: site_setting /home/sysnetco/public_html/taskrabbit/application/admin/views/default/layout/report/list_search_report.php 232
+ERROR - 2014-04-09 00:17:29 --> Severity: Notice  --> Trying to get property of non-object /home/sysnetco/public_html/taskrabbit/application/admin/views/default/layout/report/list_search_report.php 232
+ERROR - 2014-04-09 00:17:29 --> Severity: Notice  --> Undefined variable: site_setting /home/sysnetco/public_html/taskrabbit/application/admin/views/default/layout/report/list_search_report.php 232
+ERROR - 2014-04-09 00:17:29 --> Severity: Notice  --> Trying to get property of non-object /home/sysnetco/public_html/taskrabbit/application/admin/views/default/layout/report/list_search_report.php 232
+ERROR - 2014-04-09 00:17:29 --> Severity: Notice  --> Undefined variable: site_setting /home/sysnetco/public_html/taskrabbit/application/admin/views/default/layout/report/list_search_report.php 232
+ERROR - 2014-04-09 00:17:29 --> Severity: Notice  --> Trying to get property of non-object /home/sysnetco/public_html/taskrabbit/application/admin/views/default/layout/report/list_search_report.php 232
+ERROR - 2014-04-09 00:17:29 --> Severity: Notice  --> Undefined variable: site_setting /home/sysnetco/public_html/taskrabbit/application/admin/views/default/layout/report/list_search_report.php 232
+ERROR - 2014-04-09 00:17:29 --> Severity: Notice  --> Trying to get property of non-object /home/sysnetco/public_html/taskrabbit/application/admin/views/default/layout/report/list_search_report.php 232
+ERROR - 2014-04-09 00:17:29 --> Severity: Notice  --> Undefined variable: site_setting /home/sysnetco/public_html/taskrabbit/application/admin/views/default/layout/report/list_search_report.php 232
+ERROR - 2014-04-09 00:17:29 --> Severity: Notice  --> Trying to get property of non-object /home/sysnetco/public_html/taskrabbit/application/admin/views/default/layout/report/list_search_report.php 232
+ERROR - 2014-04-09 00:17:29 --> Severity: Notice  --> Undefined variable: site_setting /home/sysnetco/public_html/taskrabbit/application/admin/views/default/layout/report/list_search_report.php 232
+ERROR - 2014-04-09 00:17:29 --> Severity: Notice  --> Trying to get property of non-object /home/sysnetco/public_html/taskrabbit/application/admin/views/default/layout/report/list_search_report.php 232
+ERROR - 2014-04-09 00:17:29 --> Severity: Notice  --> Undefined variable: site_setting /home/sysnetco/public_html/taskrabbit/application/admin/views/default/layout/report/list_search_report.php 232
+ERROR - 2014-04-09 00:17:29 --> Severity: Notice  --> Trying to get property of non-object /home/sysnetco/public_html/taskrabbit/application/admin/views/default/layout/report/list_search_report.php 232
+ERROR - 2014-04-09 15:31:30 --> Severity: Notice  --> Use of undefined constant php - assumed 'php' /home/sysnetco/public_html/taskrabbit/application/admin/views/default/layout/newsletter/list_newsletter_job.php 269
+ERROR - 2014-04-09 15:31:30 --> Severity: Notice  --> Use of undefined constant php - assumed 'php' /home/sysnetco/public_html/taskrabbit/application/admin/views/default/layout/newsletter/list_newsletter_job.php 269
+ERROR - 2014-04-09 15:34:01 --> Severity: Notice  --> Use of undefined constant php - assumed 'php' /home/sysnetco/public_html/taskrabbit/application/admin/views/default/layout/newsletter/list_newsletter_job.php 269
+ERROR - 2014-04-09 15:34:01 --> Severity: Notice  --> Use of undefined constant php - assumed 'php' /home/sysnetco/public_html/taskrabbit/application/admin/views/default/layout/newsletter/list_newsletter_job.php 269
+ERROR - 2014-04-09 15:34:42 --> Severity: Notice  --> Use of undefined constant php - assumed 'php' /home/sysnetco/public_html/taskrabbit/application/admin/views/default/layout/newsletter/list_newsletter_job.php 269
+ERROR - 2014-04-09 15:34:42 --> Severity: Notice  --> Use of undefined constant php - assumed 'php' /home/sysnetco/public_html/taskrabbit/application/admin/views/default/layout/newsletter/list_newsletter_job.php 269
+ERROR - 2014-04-09 15:34:42 --> Severity: Notice  --> Use of undefined constant php - assumed 'php' /home/sysnetco/public_html/taskrabbit/application/admin/views/default/layout/newsletter/list_newsletter_job.php 269
+ERROR - 2014-04-09 15:37:58 --> Severity: Notice  --> Use of undefined constant php - assumed 'php' /home/sysnetco/public_html/taskrabbit/application/admin/views/default/layout/newsletter/list_newsletter_job.php 269
+ERROR - 2014-04-09 15:37:58 --> Severity: Notice  --> Use of undefined constant php - assumed 'php' /home/sysnetco/public_html/taskrabbit/application/admin/views/default/layout/newsletter/list_newsletter_job.php 269
+ERROR - 2014-04-09 15:37:58 --> Severity: Notice  --> Use of undefined constant php - assumed 'php' /home/sysnetco/public_html/taskrabbit/application/admin/views/default/layout/newsletter/list_newsletter_job.php 269
+ERROR - 2014-04-09 15:39:01 --> Severity: Notice  --> Use of undefined constant php - assumed 'php' /home/sysnetco/public_html/taskrabbit/application/admin/views/default/layout/newsletter/list_newsletter_job.php 269
+ERROR - 2014-04-09 15:39:01 --> Severity: Notice  --> Use of undefined constant php - assumed 'php' /home/sysnetco/public_html/taskrabbit/application/admin/views/default/layout/newsletter/list_newsletter_job.php 269
+ERROR - 2014-04-09 15:39:01 --> Severity: Notice  --> Use of undefined constant php - assumed 'php' /home/sysnetco/public_html/taskrabbit/application/admin/views/default/layout/newsletter/list_newsletter_job.php 269
+ERROR - 2014-04-09 15:39:01 --> Severity: Notice  --> Use of undefined constant php - assumed 'php' /home/sysnetco/public_html/taskrabbit/application/admin/views/default/layout/newsletter/list_newsletter_job.php 269
+ERROR - 2014-04-09 20:18:31 --> Severity: Notice  --> Use of undefined constant php - assumed 'php' /home/sysnetco/public_html/taskrabbit/application/admin/views/default/layout/newsletter/list_newsletter_job.php 269
+ERROR - 2014-04-09 20:18:31 --> Severity: Notice  --> Use of undefined constant php - assumed 'php' /home/sysnetco/public_html/taskrabbit/application/admin/views/default/layout/newsletter/list_newsletter_job.php 269
+ERROR - 2014-04-09 20:18:31 --> Severity: Notice  --> Use of undefined constant php - assumed 'php' /home/sysnetco/public_html/taskrabbit/application/admin/views/default/layout/newsletter/list_newsletter_job.php 269
+ERROR - 2014-04-09 20:18:31 --> Severity: Notice  --> Use of undefined constant php - assumed 'php' /home/sysnetco/public_html/taskrabbit/application/admin/views/default/layout/newsletter/list_newsletter_job.php 269

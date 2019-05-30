@@ -1,0 +1,11 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2016-12-13 05:38:11 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /home/saivisiontech/public_html/newsite/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2016-12-13 05:38:33 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /home/saivisiontech/public_html/newsite/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2016-12-13 05:38:36 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /home/saivisiontech/public_html/newsite/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2016-12-13 05:38:49 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /home/saivisiontech/public_html/newsite/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2016-12-13 05:39:12 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /home/saivisiontech/public_html/newsite/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2016-12-13 05:39:23 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /home/saivisiontech/public_html/newsite/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2016-12-13 05:39:23 --> Severity: Notice  --> Trying to get property of non-object /home/saivisiontech/public_html/newsite/application/admin/helpers/custom_helper.php 1526
+ERROR - 2016-12-13 05:39:50 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /home/saivisiontech/public_html/newsite/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2016-12-13 05:39:51 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /home/saivisiontech/public_html/newsite/system/database/drivers/mysql/mysql_driver.php 91

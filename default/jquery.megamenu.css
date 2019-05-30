@@ -1,0 +1,86 @@
+/*
+  jQuery MegaMenu Plugin
+  Author: GeekTantra
+  Author URI: http://www.geektantra.com
+*/
+.mp-box-white{background: #fff none repeat scroll 0 0;  border-bottom: 1px solid #dddddd;}
+
+ul.megamenu {
+  margin: 0px auto;
+  list-style: none;
+  display: none;
+}
+
+ul.megamenu li.mm-item {
+}
+
+ul.megamenu li {
+  margin: 0px;
+  padding: 0px;
+  font-size:13px;
+}
+
+ul.megamenu li.clear-fix {
+  float: none;
+  clear: both;
+  margin: 0px;
+  padding: 0px;
+  height: 0px;
+  font-size: 0px;
+  line-height: 0px;
+}
+
+ul.megamenu a.mm-item-link:link, ul.megamenu a.mm-item-link:visited {
+  position: relative;
+  display: inline-block;
+  color: #555555;
+  padding: 0 10px 3px;
+  margin: 3px 0px 0px 0px;
+  text-decoration: none;
+  z-index: 999;
+  font-size: 13px;
+  line-height:23px;
+  border-top: 1px solid transparent;
+  border-left: 1px solid transparent;
+  border-right: 1px solid transparent;
+}
+*html ul.megamenu a.mm-item-link:link, *html ul.megamenu a.mm-item-link:visited {
+  border-color: pink;
+  filter: chroma(color=pink);
+}
+
+ul.megamenu a.mm-item-link-hover:link, ul.megamenu a.mm-item-link-hover:visited {
+  color: #881926;
+  background: #FFF;
+  border-top: 1px solid #881926;
+  border-left: 1px solid #881926;
+  border-right: 1px solid #881926;
+  -moz-border-radius: 3px 3px 0px 0px;
+  border-radius: 3px 3px 0px 0px;
+}
+
+ul.megamenu div.mm-item-content {
+  background: #FFF;
+  padding: 0px;
+  position: absolute;
+  border: 1px solid #881926;
+  z-index: 9999;
+}
+
+.mm-content-base {
+  background: #FFF;
+  position: relative;
+  z-index: 11;
+  padding: 10px;
+}
+.mm-js-shadow {
+  position: absolute;
+  z-index: 10;
+}
+.menu-cont { overflow:hidden;}
+.menu-cont ul{ float:left;  padding-right:15px; margin-right:15px; width:550px;}
+.menu-cont ul li{ padding:5px 0; width:172px; float:left; border-right:1px solid #ccc; margin-right:15px;}
+.menu-cont ul li:nth-child(3n){ border-right:0px !important; margin-right:0px !important;}
+.menu-cont ul li a{ color:#585858;}
+.menu-cont ul:last-child{ padding-right:0px !important; margin-right:0px !important; border-right:0px !important;}
+.main_hover{ }

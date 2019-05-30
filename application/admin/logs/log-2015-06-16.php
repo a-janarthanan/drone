@@ -1,0 +1,20 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2015-06-16 15:22:17 --> 404 Page Not Found --> Editor
+ERROR - 2015-06-16 15:22:20 --> 404 Page Not Found --> FCKeditor
+ERROR - 2015-06-16 15:22:22 --> 404 Page Not Found --> MailingListManager
+ERROR - 2015-06-16 15:22:23 --> 404 Page Not Found --> MembersAreaManager
+ERROR - 2015-06-16 15:22:29 --> 404 Page Not Found --> SiteEngineManager
+ERROR - 2015-06-16 15:22:32 --> 404 Page Not Found --> admin_modules
+ERROR - 2015-06-16 15:22:35 --> 404 Page Not Found --> assetmanager
+ERROR - 2015-06-16 15:22:38 --> 404 Page Not Found --> assetmanager
+ERROR - 2015-06-16 15:22:40 --> 404 Page Not Found --> editor
+ERROR - 2015-06-16 15:22:41 --> 404 Page Not Found --> fckeditor
+ERROR - 2015-06-16 15:22:45 --> 404 Page Not Found --> library
+ERROR - 2015-06-16 15:24:50 --> 404 Page Not Found --> editor
+ERROR - 2015-06-16 15:25:36 --> 404 Page Not Found --> addons
+ERROR - 2015-06-16 15:25:59 --> 404 Page Not Found --> openwysiwyg
+ERROR - 2015-06-16 15:26:06 --> 404 Page Not Found --> ckfinder
+ERROR - 2015-06-16 15:26:17 --> 404 Page Not Found --> includes
+ERROR - 2015-06-16 15:26:42 --> 404 Page Not Found --> filemanager
+ERROR - 2015-06-16 15:28:12 --> 404 Page Not Found --> templates

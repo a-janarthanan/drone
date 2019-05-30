@@ -1,0 +1,15 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2019-05-30 09:05:56 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\snm\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2019-05-30 09:11:51 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\snm\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2019-05-30 09:12:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\snm\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2019-05-30 09:12:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\snm\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2019-05-30 09:12:03 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\snm\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2019-05-30 09:12:04 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\snm\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2019-05-30 12:23:05 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\drone\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2019-05-30 12:23:13 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\drone\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2019-05-30 12:23:16 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\drone\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2019-05-30 12:23:25 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\drone\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2019-05-30 12:24:09 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\drone\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2019-05-30 12:24:26 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\drone\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2019-05-30 12:24:28 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\drone\system\database\drivers\mysql\mysql_driver.php 91
